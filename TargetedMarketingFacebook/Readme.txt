@@ -1,0 +1,1 @@
+Conventional marketing model is that of spray and pray but since a lot of data is available these days, its possible to analyze and target advertisment to those who are most likely to buy product. In this project you need to create a multimode graph that matches your product to people in your facebook graph using matplotlib, networkx and facebook sdk.

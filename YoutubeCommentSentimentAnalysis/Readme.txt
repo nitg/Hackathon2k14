@@ -1,0 +1,1 @@
+Youtube comment in response to advertisment are great measure of how that advertisment will fair in mass media. Therefore companies lauch their advertisment in social media sites like Youtube before lauching it in mass media to guage public sentiment. In this project you will be designing a classifier to rank comment. Go through the Mosa_v2.pdf and NLTK book.

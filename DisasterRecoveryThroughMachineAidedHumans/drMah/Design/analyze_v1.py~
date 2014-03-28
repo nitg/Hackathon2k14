@@ -1,0 +1,19 @@
+#oggpnosn
+#hkhr
+
+#importing essential
+from pymongo import Connection
+import copy
+#establishing a connection
+c=Connection(host="localhost",port=27017)
+
+#creating a database handle
+try:
+    dbh=c["drMah"]
+except:
+    print "Could not connect to database";
+
+def parse(inp):    
+    inp=inp.split()
+    if inp[0][0]=="\":
+

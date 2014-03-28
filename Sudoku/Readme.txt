@@ -1,0 +1,1 @@
+So you like solving sudoku puzzle. Have you ever tried to come up with an algorithm to solve it efficiently. If not give it a shot! This will introduce you to the field of Optimization and Algorithm. 
