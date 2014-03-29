@@ -12,7 +12,7 @@ Python for Beginner Video tutorial
 https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=video&cd=3&cad=rja&uact=8&ved=0CEEQtwIwAg&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvLA6GrgGiNY&ei=E_Q0U-qdDsOJrQfp9YHABA&usg=AFQjCNFcCUNEXamwpIrNMupVQTcFfzlYmQ&bvm=bv.63808443,d.bmk
 
 Python Book(Think Python)
-https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CDAQFjAB&url=http%3A%2F%2Fwww.greenteapress.com%2Fthinkpython%2Fthinkpython.pdf&ei=OfU0U7DuHojArAexgoDACA&usg=AFQjCNFvNno09iaf9BD9xngRTeSSQfU0Mw&bvm=bv.63808443,d.bmk
+http://www.greenteapress.com/thinkpython/thinkpython.pdf
 
 Python Course
 http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/index.htm
